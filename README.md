@@ -2,7 +2,8 @@
 
 Sou Técnico em Desenvolvimento de Sistemas formado pelo Instituto Federal do Piauí (IFPI) e atualmente estou cursando Analise e Desenvolvimento de Sistemas de forma presencial na mesma instituição (IFPI) e estou cursando também Segurança da Informação pela Gran faculdade na forma de Ensino a Distancia.
 
-Sou entusiasta de Cibersegurança, Segurança Ofensiva e Hardware Hacking e pretendo entrar nesse mercado, mas também posso atuar na 
+Sou entusiasta de Cibersegurança, Segurança Ofensiva e Hardware Hacking e pretendo entrar nesse mercado, mas também posso atuar na área de desenvolvimento de sistemas.
+
 ---
 
 ## 🛡️ Cibersegurança e Segurança Ofensiva
