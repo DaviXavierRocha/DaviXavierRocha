@@ -13,6 +13,7 @@ Espaço dedicado a relatórios de auditoria (Pentest), resoluções de CTFs e ex
 ### FUTURAMENTE:
 
 ~~* 💻 **[Relatórios de Pentest - Lab Controlado](link-do-seu-repo):** Relatórios executivos de exploração de vulnerabilidades (Gray Box) em ambientes como DVWA e Metasploitable 2, abordando falhas como Injeção de Comandos, LFI e quebra de SSH.~~
+
 ~~* 🔌 **[Hardware Hacking & OSINT](link-do-seu-repo):** Laboratórios práticos de reconhecimento e auditoria de perímetro utilizando módulos ESP32 (CYD) e criação de scripts customizados em Python para automação de testes de segurança.~~
 
 ---
