@@ -48,4 +48,4 @@ Projetos focados em arquitetura de dados, integrações de APIs e automação de
 
 ---
 
-📫 **Como me encontrar:** [Seu LinkedIn] | [Seu E-mail]
+📫 **Como me encontrar:** Linkedin: [https://www.linkedin.com/in/davi-xavier-8477a4337] | Email: dxavier417@gmail.com
