@@ -29,6 +29,7 @@ Projetos focados em arquitetura de dados, integrações de APIs e automação de
 * 🎮 **[Front_End_com_API](https://github.com/DaviXavierRocha/Front_End_com_API):** Mesmo treino anterior mas com consumo de API durante a formação no SENAI.
 * 🎦 **[Cinema-Java](https://github.com/BrunoFigueirz/Cinema-java):** Uma aplicação de cinema em java feita como atividade do módulo Tópicos Avançados de Programação.
 * 📈 **[devfinance](https://github.com/DaviXavierRocha/devfinance):** Uma Aplicação feita para fins de treino com o React JS.
+* 🧑‍🏫 **[Atividade_POO](https://github.com/DaviXavierRocha/Atividade_POO):** Exercicio em que há classes Conta, Endereço e Cliente que simulam uma interação em um banco.
 * 🧑‍🏫 **[Atividade_POO_2](https://github.com/DaviXavierRocha/Atividade_POO_2):** Exercicio em que associa as classes projetor, computador e professor.
 
 ---
