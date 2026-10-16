@@ -9,7 +9,7 @@ Sou entusiasta de Cibersegurança, Segurança Ofensiva e Hardware Hacking e pret
 ## 🛡️ Cibersegurança e Segurança Ofensiva
 Espaço dedicado a relatórios de auditoria (Pentest), resoluções de CTFs e experimentação com segurança de hardware.
 
-* 🚩 **[Operação Curupira III - Write-ups](link-do-seu-repo):** Documentação técnica e resolução de desafios de CTF focados em análise de tráfego de rede (PCAP), forense em SQLite, análise de logs, esteganografia e engenharia reversa.
+* 🚩 **[Operação Curupira III - Write-ups](https://github.com/DaviXavierRocha/Operacao_Curupira_III):** Documentação técnica e resolução de desafios de CTF focados em análise de tráfego de rede (PCAP), forense em SQLite, análise de logs, esteganografia e engenharia reversa.
 
 ### FUTURAMENTE:
 
